@@ -1,5 +1,4 @@
 # Bragir
-![Authors](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2149113237/settings_images/4adb13d-824c-454-a5c-72b2c6f06e1_Arjan_Codes_-_FInal_Files.png)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -42,7 +41,7 @@ pip install bragir
 ```
 
 ### Brew
-**NOTE:** Currently bragir is not available on the homebrew-core repo, so you will need to tap our custom [ArjanCodes repo](https://github.com/ArjanCodes/homebrew-core)
+**NOTE:** Currently bragir is not available on the homebrew-core repo, so you will need to tap our custom [repo](https://github.com/ArjanCodes/homebrew-core)
 
 ```zsh
 brew tap arjancodes/core
