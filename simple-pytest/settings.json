@@ -1,0 +1,8 @@
+{
+    //Python setting
+    // "python.envFile": "${workspaceFolder}/.env",
+    // Test Settings
+    "python.testing.pytestEnabled": true,
+    // "python.testing.unittestEnabled": false,
+    "python.testing.cwd": "${workspaceFolder}/tests"
+}
